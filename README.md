@@ -9,7 +9,8 @@ Site desenvolvido a partir do evento Digital Make Week #2 [12 a 16 de julho 2021
 <img src="./assets/preços.png" alt="Nosso preços" width="400;"/>
 <img src="./assets/rodape.png" alt="footer" width="400;"/>
 
-Após selecionado o plano ele abre nessa tela onde é exibido o formulário para o usuário.
+### Após selecionar o plano, abre nessa tela onde é exibido o formulário para o usuário.
+
 <img src="./assets/assinate.png" alt="assinatura" width="400;"/>
 
 
